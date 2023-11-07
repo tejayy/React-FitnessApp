@@ -1,3 +1,4 @@
+![Capturell](https://github.com/tejayy/React-FitnessApp/assets/117623822/b6962aa8-5fda-488c-9e88-c8c822face5e)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
